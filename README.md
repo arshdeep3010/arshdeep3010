@@ -4,7 +4,7 @@ GenAI Developer at TCS, working on Generative AI for a US healthcare client.
 
 I build AI systems that are reliable enough to trust: the model suggests, and code, tests or a person make the final call. Every project below is live, and every number comes from a run I can show.
 
-**Portfolio:** [https://arshdeepsingh.is-a.dev/](https://dy880hqri6uqu.cloudfront.net) · **LinkedIn:** [arshdeep-singh30](https://www.linkedin.com/in/arshdeep-singh30)
+**Portfolio:** [https://arshdeepsingh.is-a.dev/](https://arshdeepsingh.is-a.dev/) · **LinkedIn:** [arshdeep-singh30](https://www.linkedin.com/in/arshdeep-singh30)
 
 ### Projects
 
